@@ -1,6 +1,9 @@
 # lamp-setup-bash
 Quick and dirty bash lamp stack setup
 
+Usage:
+- sh ./i-love-lamp.sh
+
 Currently Installs the following:
 - httpd v2.4.25
 - apr v1.5.2 (required for Apache)

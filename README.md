@@ -13,8 +13,9 @@ Currently Installs the following:
 - php71-php-common v7.1.3
 - php71-php-mysqlnd v7.1.3
 - php71-php-gd v7.1.3
-- 
 
 To Do:
 - Auto setup of domains
 - Auto configuration of vhosts
+- Add exim service setup for Email
+- Add named service for DNS

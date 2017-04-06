@@ -4,7 +4,7 @@ Quick and dirty bash lamp stack setup
 PLEASE NOTE: THIS SCRIPT IS A WORK IN PROGRESS, IT WILL NOT WORK 
 
 Usage:
-- sh ./i-love-lamp.sh
+- sh ./ilovelamp.sh
 
 Currently Installs the following:
 - httpd v2.4.25

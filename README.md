@@ -21,6 +21,7 @@ Currently Installs the following:
 - php71-php-gd v7.1.3
 
 To Do:
+- Add Firewall/IPTables
 - Auto setup of domains
 - Auto configuration of vhosts
 - Add exim service setup for Email

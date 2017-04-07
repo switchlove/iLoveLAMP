@@ -4,6 +4,7 @@ Quick and dirty bash lamp stack setup
 PLEASE NOTE: THIS SCRIPT IS A WORK IN PROGRESS, IT WILL NOT WORK 
 
 Usage:
+- git clone https://github.com/switchlove/iLoveLAMP.git
 - sh ./ilovelamp.sh
 
 Currently Installs the following:

@@ -1,4 +1,4 @@
-# lamp-setup-bash
+# iLoveLAMP
 Quick and dirty bash lamp stack setup
 
 PLEASE NOTE: THIS SCRIPT IS A WORK IN PROGRESS, IT WILL NOT WORK 

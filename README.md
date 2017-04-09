@@ -11,14 +11,10 @@ Currently Installs the following:
 - httpd v2.4.25
 - apr v1.5.2 (required for Apache)
 - apr-util v1.5.4(required for Apache)
-- mariadb v5.5.52
-- mariadb-server v5.5.52
-- php71-php v7.1.3 
-- php71-php-devel v7.1.3
-- php71-php-cli v7.1.3
-- php71-php-common v7.1.3
-- php71-php-mysqlnd v7.1.3
-- php71-php-gd v7.1.3
+- php v7.1.3 
+- suphp v0.7.2
+- mariadb v10.1.22
+- mariadb-server v10.1.22
 
 To Do:
 - Setup IPTables
